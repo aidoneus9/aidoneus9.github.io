@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 코딩테스트 암기 사항 1. 이스케이프 문자(escape character) 
+title: 코딩테스트 암기 사항 1. 이스케이프 문자
 ---
 
 ### 암기 사항 
