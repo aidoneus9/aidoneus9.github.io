@@ -1,3 +1,7 @@
+---
+layout: single
+title: 코딩테스트 암기 사항 2. 소수 판별 함수 
+--- 
 ### 암기 사항 
 
 🚀 소수 판별 함수 
@@ -18,3 +22,6 @@ def is_prime(n):
             return False 
     return True 
 ```
+
+### import 
+`from sympy import isprime`
