@@ -1,3 +1,8 @@
+---
+layout: single
+title: 코딩테스트 암기사항 3. 
+---
+
 ```python
 def solution(my_string):
     alphabet = [chr(i) for i in range(ord('A'), ord('Z') + 1)] + [chr(i) for i in range(ord('a'), ord('z') + 1)]
