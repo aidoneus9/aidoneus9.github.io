@@ -1,3 +1,8 @@
+---
+layout: single
+title: 코딩테스트 암기사항 5
+---
+
 ```python
 def solution(arr, queries):
     answer = []
