@@ -1,3 +1,8 @@
+---
+layout: single
+title: 코딩테스트 암기사항 6.
+---
+
 ```python
 def solution(picture, k):
     result = []
