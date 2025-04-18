@@ -1,3 +1,8 @@
+---
+layout: single
+title: 코딩테스트 암기사항 9.
+---
+
 ```python
 def solution(score):
     # 평균 점수 구하기 
